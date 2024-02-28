@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8c8a789b5e1cd3478d0d957cbe49c1d, type: 3}
+  m_Name: Bean Bag
+  m_EditorClassIdentifier: 
+  pokemonName: Bean Bag
+  pfpSprite: {fileID: 21300000, guid: 3f85691a182351c4cba8e3cb21f93d4d, type: 3}
+  description: A normal Bean bag that is comfortable to sit on. AT least, for some
+    people say. This Bean bag is made with cotton, but you might've thought of it
+    being filled with beans.
+  level: 4
+  hp: 90
+  strength: 1
+  defense: 4
+  speed: 2
+  agility: 2
+  luck: 5
+  gender: 1
+  type: 6
+  moves: []

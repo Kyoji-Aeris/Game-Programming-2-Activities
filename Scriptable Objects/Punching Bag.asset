@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8c8a789b5e1cd3478d0d957cbe49c1d, type: 3}
+  m_Name: Punching Bag
+  m_EditorClassIdentifier: 
+  pokemonName: Punching Bag
+  pfpSprite: {fileID: 21300000, guid: 4e039585bb40c3349b73eacec2e79700, type: 3}
+  description: The Punching bag is a great way to fully let out your emotions into
+    it, kind of a stress reliever. But it is mostly used to sparring, and other physical-related
+    activities and hobbies related to it. They're very resilient, and tough.
+  level: 40
+  hp: 350
+  strength: 25
+  defense: 35
+  speed: 19
+  agility: 25
+  luck: 23
+  gender: 2
+  type: 2
+  moves: []

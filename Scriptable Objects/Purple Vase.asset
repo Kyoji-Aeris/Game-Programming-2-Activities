@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8c8a789b5e1cd3478d0d957cbe49c1d, type: 3}
+  m_Name: Purple Vase
+  m_EditorClassIdentifier: 
+  pokemonName: Purple Vase
+  pfpSprite: {fileID: 21300000, guid: 7868229d99dd3304c9f90618e257f456, type: 3}
+  description: This Vase might actually be of value. Might, as in depending on the
+    person. Could've sworn it was referenced somewhere... But anyway, this Vase's
+    appearance might look pretty, but it can be dangerous, if broken in pieces.
+  level: 7
+  hp: 50
+  strength: 13
+  defense: 3
+  speed: 6
+  agility: 4
+  luck: 7
+  gender: 1
+  type: 7
+  moves: []

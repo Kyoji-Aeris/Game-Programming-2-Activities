@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c8c8a789b5e1cd3478d0d957cbe49c1d, type: 3}
+  m_Name: Bed
+  m_EditorClassIdentifier: 
+  pokemonName: Bed
+  pfpSprite: {fileID: 21300000, guid: 5b9236ced489e8b44b6ff78324353b60, type: 3}
+  description: There are many beds to choose from, but this bed might just be good
+    enough to use. It is made of quality materials, and it is quite heavy.
+  level: 20
+  hp: 200
+  strength: 14
+  defense: 20
+  speed: 5
+  agility: 5
+  luck: 9
+  gender: 2
+  type: 6
+  moves: []
